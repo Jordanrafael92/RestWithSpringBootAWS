@@ -1,13 +1,13 @@
-package br.com.jordansilva.restwithspringbootaws;
+package br.com.jordansilva;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestWithSpringBootAwsApplication {
+public class Startup {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestWithSpringBootAwsApplication.class, args);
+		SpringApplication.run(Startup.class, args);
 	}
 
 }
